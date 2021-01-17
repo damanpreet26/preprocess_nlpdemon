@@ -5,7 +5,7 @@ import sys
 import pandas as pd
 import numpy as np
 
-from spacy.lang.en.stop_words import STOP_WORDS as stopwords
+#from spacy.lang.en.stop_words import STOP_WORDS as stopwords
 
 
 ## word count
