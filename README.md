@@ -1,2 +1,4 @@
-# preprocess_nlpdemon
-Preprocessing packge
+# Preprocessing  Text Python Package
+
+This Python package is prepared by
+-Damanpreet Dahele
