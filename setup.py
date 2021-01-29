@@ -4,7 +4,7 @@ with open("README.md", "r") as file:
 
 
 setuptools.setup(
-    name = "preprocess_nlpdemon",  ## this should be unique
+    name = "preprocess_nlpdemon", 
     version = "1.0",
     author = "Damanpreet Dahele",
     author_email = "damanpreets26@gmail.com",
